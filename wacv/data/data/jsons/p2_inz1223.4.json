@@ -1,0 +1,2234 @@
+{
+    "Widget": [
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1434,
+            "h": 40,
+            "y": 757,
+            "x": 140,
+            "structure_id": "Wi_1"
+        },
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1433,
+            "h": 47,
+            "y": 806,
+            "x": 141,
+            "structure_id": "Wi_2"
+        },
+        {
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 24,
+            "h": 21,
+            "y": 602,
+            "x": 620,
+            "structure_id": "Wi_3"
+        },
+        {
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 24,
+            "h": 26,
+            "y": 599,
+            "x": 524,
+            "structure_id": "Wi_4"
+        },
+        {
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 23,
+            "h": 26,
+            "y": 413,
+            "x": 1263,
+            "structure_id": "Wi_5"
+        },
+        {
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 30,
+            "h": 27,
+            "y": 413,
+            "x": 1358,
+            "structure_id": "Wi_6"
+        },
+        {
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 27,
+            "h": 25,
+            "y": 256,
+            "x": 509,
+            "structure_id": "Wi_7"
+        },
+        {
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 27,
+            "h": 26,
+            "y": 254,
+            "x": 608,
+            "structure_id": "Wi_8"
+        },
+        {
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 25,
+            "y": 1753,
+            "x": 392,
+            "structure_id": "Wi_9"
+        },
+        {
+            "parent_Field": "Fi_9",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 24,
+            "y": 1754,
+            "x": 491,
+            "structure_id": "Wi_10"
+        },
+        {
+            "parent_Field": "Fi_10",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 24,
+            "h": 24,
+            "y": 980,
+            "x": 666,
+            "structure_id": "Wi_11"
+        },
+        {
+            "parent_Field": "Fi_11",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 24,
+            "h": 24,
+            "y": 980,
+            "x": 563,
+            "structure_id": "Wi_12"
+        },
+        {
+            "parent_Field": "Fi_12",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 29,
+            "h": 22,
+            "y": 475,
+            "x": 1206,
+            "structure_id": "Wi_13"
+        },
+        {
+            "parent_Field": "Fi_13",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 27,
+            "h": 26,
+            "y": 473,
+            "x": 1112,
+            "structure_id": "Wi_14"
+        },
+        {
+            "parent_Field": "Fi_14",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 22,
+            "h": 27,
+            "y": 209,
+            "x": 512,
+            "structure_id": "Wi_15"
+        },
+        {
+            "parent_Field": "Fi_15",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 28,
+            "h": 26,
+            "y": 209,
+            "x": 608,
+            "structure_id": "Wi_16"
+        },
+        {
+            "parent_Field": "Fi_16",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 24,
+            "h": 24,
+            "y": 305,
+            "x": 608,
+            "structure_id": "Wi_17"
+        },
+        {
+            "parent_Field": "Fi_17",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 26,
+            "h": 25,
+            "y": 304,
+            "x": 510,
+            "structure_id": "Wi_18"
+        },
+        {
+            "parent_Field": "Fi_18",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 25,
+            "h": 28,
+            "y": 1501,
+            "x": 140,
+            "structure_id": "Wi_19"
+        },
+        {
+            "parent_Field": "Fi_19",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 24,
+            "h": 27,
+            "y": 1502,
+            "x": 413,
+            "structure_id": "Wi_20"
+        },
+        {
+            "parent_Field": "Fi_20",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 26,
+            "h": 27,
+            "y": 1121,
+            "x": 237,
+            "structure_id": "Wi_21"
+        },
+        {
+            "parent_Field": "Fi_21",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 27,
+            "h": 24,
+            "y": 1121,
+            "x": 140,
+            "structure_id": "Wi_22"
+        },
+        {
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1434,
+            "h": 42,
+            "y": 1223,
+            "x": 140,
+            "structure_id": "Wi_23"
+        },
+        {
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1437,
+            "h": 42,
+            "y": 1277,
+            "x": 138,
+            "structure_id": "Wi_24"
+        },
+        {
+            "parent_Field": "Fi_23",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 28,
+            "h": 27,
+            "y": 1913,
+            "x": 140,
+            "structure_id": "Wi_25"
+        },
+        {
+            "parent_Field": "Fi_24",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 28,
+            "h": 29,
+            "y": 1958,
+            "x": 179,
+            "structure_id": "Wi_26"
+        },
+        {
+            "parent_Field": "Fi_24",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 698,
+            "h": 42,
+            "y": 1955,
+            "x": 690,
+            "structure_id": "Wi_27"
+        },
+        {
+            "parent_Field": "Fi_25",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 25,
+            "h": 27,
+            "y": 2012,
+            "x": 182,
+            "structure_id": "Wi_28"
+        },
+        {
+            "parent_Field": "Fi_25",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 587,
+            "h": 39,
+            "y": 2009,
+            "x": 981,
+            "structure_id": "Wi_29"
+        },
+        {
+            "parent_Field": "Fi_26",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 28,
+            "h": 27,
+            "y": 2062,
+            "x": 140,
+            "structure_id": "Wi_30"
+        },
+        {
+            "parent_Field": "Fi_27",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 268,
+            "h": 41,
+            "y": 1559,
+            "x": 509,
+            "structure_id": "Wi_31"
+        },
+        {
+            "parent_Field": "Fi_28",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 694,
+            "h": 45,
+            "y": 1616,
+            "x": 392,
+            "structure_id": "Wi_32"
+        }
+    ],
+    "TextBlock": [
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1418.7777777777778,
+            "h": 67.80555555555554,
+            "y": 664.2399999999999,
+            "x": 141.72944444444448,
+            "structure_id": "Tb_1"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 570.9333333333335,
+            "h": 41.83333333333326,
+            "y": 1339.6080555555554,
+            "x": 78.74027777777778,
+            "structure_id": "Tb_2"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 1371.861111111111,
+            "h": 101.1388888888888,
+            "y": 530.9066666666666,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_3"
+        },
+        {
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 35.97222222222217,
+            "h": 34.47222222222217,
+            "y": 597.5733333333333,
+            "x": 654.3683333333333,
+            "structure_id": "Tb_4"
+        },
+        {
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 42.861111111111086,
+            "h": 34.47222222222217,
+            "y": 597.5733333333333,
+            "x": 557.8391666666666,
+            "structure_id": "Tb_5"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 1095.9999999999995,
+            "h": 34.472222222222115,
+            "y": 411.22583333333324,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_6"
+        },
+        {
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 42.861111111111086,
+            "h": 34.472222222222115,
+            "y": 411.22583333333324,
+            "x": 1297.9080555555556,
+            "structure_id": "Tb_7"
+        },
+        {
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 35.97222222222217,
+            "h": 34.472222222222115,
+            "y": 411.22583333333324,
+            "x": 1394.4372222222223,
+            "structure_id": "Tb_8"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 170.83333333333331,
+            "h": 34.47222222222214,
+            "y": 253.22499999999982,
+            "x": 158.39916666666664,
+            "structure_id": "Tb_9"
+        },
+        {
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 42.861111111111086,
+            "h": 34.47222222222214,
+            "y": 253.22277777777785,
+            "x": 545.8977777777777,
+            "structure_id": "Tb_10"
+        },
+        {
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 35.97222222222217,
+            "h": 34.47222222222214,
+            "y": 253.22277777777785,
+            "x": 642.4269444444444,
+            "structure_id": "Tb_11"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 254.36111111111106,
+            "h": 34.472222222222115,
+            "y": 160.61583333333323,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_12"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.533333333333335,
+            "h": 35.27777777777759,
+            "y": 157.63277777777773,
+            "x": 89.67916666666666,
+            "structure_id": "Tb_13"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 25,
+            "h": 35.27777777777759,
+            "y": 408.24277777777775,
+            "x": 89.44555555555556,
+            "structure_id": "Tb_14"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.9111111111111,
+            "h": 35.27777777777759,
+            "y": 468.0830555555556,
+            "x": 89.49,
+            "structure_id": "Tb_15"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 26.288888888888895,
+            "h": 35.27777777777759,
+            "y": 527.9233333333334,
+            "x": 88.80111111111111,
+            "structure_id": "Tb_16"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 232.6666666666666,
+            "h": 34.47222222222217,
+            "y": 1749.7413888888887,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_17"
+        },
+        {
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 42.86111111111114,
+            "h": 34.47222222222217,
+            "y": 1749.7413888888887,
+            "x": 428.0641666666666,
+            "structure_id": "Tb_18"
+        },
+        {
+            "parent_Field": "Fi_9",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 35.97222222222217,
+            "h": 34.47222222222217,
+            "y": 1749.7413888888887,
+            "x": 524.5933333333334,
+            "structure_id": "Tb_19"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 387.8611111111112,
+            "h": 34.472222222222285,
+            "y": 976.539722222222,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_20"
+        },
+        {
+            "parent_Field": "Fi_10",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 35.97222222222217,
+            "h": 34.472222222222285,
+            "y": 976.539722222222,
+            "x": 699.3666666666667,
+            "structure_id": "Tb_21"
+        },
+        {
+            "parent_Field": "Fi_11",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 42.861111111111086,
+            "h": 34.472222222222285,
+            "y": 976.539722222222,
+            "x": 596.3102777777777,
+            "structure_id": "Tb_22"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 950.0277777777774,
+            "h": 34.472222222222115,
+            "y": 471.0663888888888,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_23"
+        },
+        {
+            "parent_Field": "Fi_12",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 35.97222222222217,
+            "h": 34.472222222222115,
+            "y": 471.0663888888888,
+            "x": 1241.9422222222222,
+            "structure_id": "Tb_24"
+        },
+        {
+            "parent_Field": "Fi_13",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 42.861111111111086,
+            "h": 34.472222222222115,
+            "y": 471.0663888888888,
+            "x": 1145.4130555555555,
+            "structure_id": "Tb_25"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 527.9722222222223,
+            "h": 34.472222222222115,
+            "y": 351.38750000000005,
+            "x": 141.73249999999996,
+            "structure_id": "Tb_26"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 112.08333333333334,
+            "h": 34.472222222222115,
+            "y": 206.92138888888866,
+            "x": 164.9286111111111,
+            "structure_id": "Tb_27"
+        },
+        {
+            "parent_Field": "Fi_14",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 42.861111111111086,
+            "h": 34.47222222222214,
+            "y": 206.9194444444444,
+            "x": 545.8977777777777,
+            "structure_id": "Tb_28"
+        },
+        {
+            "parent_Field": "Fi_15",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 35.97222222222217,
+            "h": 34.47222222222214,
+            "y": 206.9194444444444,
+            "x": 642.4269444444444,
+            "structure_id": "Tb_29"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 268.4722222222223,
+            "h": 34.472222222222115,
+            "y": 302.3061111111111,
+            "x": 165.34361111111107,
+            "structure_id": "Tb_30"
+        },
+        {
+            "parent_Field": "Fi_16",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 35.97222222222217,
+            "h": 34.472222222222115,
+            "y": 302.3041666666668,
+            "x": 642.4269444444444,
+            "structure_id": "Tb_31"
+        },
+        {
+            "parent_Field": "Fi_17",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 42.861111111111086,
+            "h": 34.472222222222115,
+            "y": 302.3041666666668,
+            "x": 545.8977777777777,
+            "structure_id": "Tb_32"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.666666666666664,
+            "h": 34.47222222222213,
+            "y": 206.92138888888866,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_33"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.666666666666664,
+            "h": 34.47222222222213,
+            "y": 253.22499999999982,
+            "x": 141.73249999999996,
+            "structure_id": "Tb_34"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.666666666666664,
+            "h": 34.47222222222213,
+            "y": 302.3061111111111,
+            "x": 141.73249999999996,
+            "structure_id": "Tb_35"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 1367.3611111111115,
+            "h": 67.80555555555588,
+            "y": 1413.0280555555555,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_36"
+        },
+        {
+            "parent_Field": "Fi_18",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 134.83083333333332,
+            "h": 34.4722222222224,
+            "y": 1499.4580555555553,
+            "x": 175.81916666666666,
+            "structure_id": "Tb_37"
+        },
+        {
+            "parent_Field": "Fi_19",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 128.42472222222239,
+            "h": 34.4722222222224,
+            "y": 1499.4580555555553,
+            "x": 448.9380555555555,
+            "structure_id": "Tb_38"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 1415.5880555555555,
+            "h": 67.80555555555566,
+            "y": 1036.3799999999999,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_39"
+        },
+        {
+            "parent_Field": "Fi_20",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 35.97222222222223,
+            "h": 34.4722222222224,
+            "y": 1118.794722222222,
+            "x": 272.3483333333333,
+            "structure_id": "Tb_40"
+        },
+        {
+            "parent_Field": "Fi_21",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 42.861111111111086,
+            "h": 34.4722222222224,
+            "y": 1118.794722222222,
+            "x": 175.81916666666666,
+            "structure_id": "Tb_41"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1473.6500000000003,
+            "h": 61.025000000000546,
+            "y": 2169.161944444444,
+            "x": 78.74,
+            "structure_id": "Tb_42"
+        },
+        {
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 967.356111111111,
+            "h": 34.861111111111086,
+            "y": 1170.5944444444444,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_43"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 1349.6388888888894,
+            "h": 67.80555555555543,
+            "y": 1836.2483333333332,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_44"
+        },
+        {
+            "parent_Field": "Fi_23",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 794.4652777777776,
+            "h": 34.47222222222217,
+            "y": 1910.7891666666665,
+            "x": 174.70805555555555,
+            "structure_id": "Tb_45"
+        },
+        {
+            "parent_Field": "Fi_24",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 468.66527777777765,
+            "h": 34.47222222222217,
+            "y": 1956.5619444444444,
+            "x": 214.07805555555555,
+            "structure_id": "Tb_46"
+        },
+        {
+            "parent_Field": "Fi_25",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 759.4213888888886,
+            "h": 34.47222222222217,
+            "y": 2010.2091666666665,
+            "x": 214.07805555555555,
+            "structure_id": "Tb_47"
+        },
+        {
+            "parent_Field": "Fi_26",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 1295.8100000000002,
+            "h": 59.75,
+            "y": 2059.2905555555553,
+            "x": 175.81916666666666,
+            "structure_id": "Tb_48"
+        },
+        {
+            "parent_Field": "Fi_27",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 355.2500000000001,
+            "h": 34.4722222222224,
+            "y": 1559.298333333333,
+            "x": 141.73416666666665,
+            "structure_id": "Tb_49"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1412.155555555556,
+            "h": 54.244444444444525,
+            "y": 1668.74,
+            "x": 141.73999999999998,
+            "structure_id": "Tb_50"
+        },
+        {
+            "parent_Field": "Fi_28",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 238.1944444444444,
+            "h": 34.47222222222217,
+            "y": 1620.819722222222,
+            "x": 141.73222222222222,
+            "structure_id": "Tb_51"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 20.222222222222225,
+            "h": 35.27777777777774,
+            "y": 973.5563888888888,
+            "x": 91.83444444444444,
+            "structure_id": "Tb_52"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 23.46666666666667,
+            "h": 35.27777777777774,
+            "y": 1033.3966666666668,
+            "x": 90.21222222222221,
+            "structure_id": "Tb_53"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 23.822222222222223,
+            "h": 35.27777777777774,
+            "y": 1167.7777777777776,
+            "x": 90.03472222222223,
+            "structure_id": "Tb_54"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.288888888888888,
+            "h": 35.27777777777774,
+            "y": 1410.0447222222222,
+            "x": 89.80111111111111,
+            "structure_id": "Tb_55"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.19999999999999,
+            "h": 35.27777777777774,
+            "y": 1556.3152777777777,
+            "x": 89.84555555555555,
+            "structure_id": "Tb_56"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 25.577777777777772,
+            "h": 35.27777777777782,
+            "y": 1746.7580555555555,
+            "x": 89.15666666666667,
+            "structure_id": "Tb_57"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 22.28888888888889,
+            "h": 35.27777777777782,
+            "y": 1833.265,
+            "x": 90.80111111111111,
+            "structure_id": "Tb_58"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 178.5,
+            "h": 41.83333333333337,
+            "y": 906.9622222222222,
+            "x": 280.2736111111111,
+            "structure_id": "Tb_59"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 139.10000000000002,
+            "h": 41.366666666666674,
+            "y": 907.1622222222221,
+            "x": 94.48805555555556,
+            "structure_id": "Tb_60"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 703.3777777777781,
+            "h": 27.888888888888786,
+            "y": 49.99805555555541,
+            "x": 78.74,
+            "structure_id": "Tb_61"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 788.8444444444445,
+            "h": 28.22222222222217,
+            "y": 2269.7302777777777,
+            "x": 39.37,
+            "structure_id": "Tb_62"
+        }
+    ],
+    "Choice_Field": [],
+    "Field": [
+        {
+            "y": 664.2399999999999,
+            "x": 140,
+            "structure_id": "Fi_1",
+            "w": 1434,
+            "h": 188.7600000000001
+        },
+        {
+            "y": 596.5733333333333,
+            "x": 620,
+            "structure_id": "Fi_2",
+            "w": 69.34055555555551,
+            "h": 34.47222222222217
+        },
+        {
+            "y": 597.5733333333333,
+            "x": 524,
+            "structure_id": "Fi_3",
+            "w": 76.70027777777773,
+            "h": 34.47222222222217
+        },
+        {
+            "y": 411.22583333333324,
+            "x": 1263,
+            "structure_id": "Fi_4",
+            "w": 77.7691666666667,
+            "h": 34.472222222222115
+        },
+        {
+            "y": 411.22583333333324,
+            "x": 1358,
+            "structure_id": "Fi_5",
+            "w": 72.40944444444449,
+            "h": 34.472222222222115
+        },
+        {
+            "y": 253.22277777777785,
+            "x": 509,
+            "structure_id": "Fi_6",
+            "w": 79.7588888888888,
+            "h": 34.47222222222214
+        },
+        {
+            "y": 253.22277777777785,
+            "x": 608,
+            "structure_id": "Fi_7",
+            "w": 70.39916666666659,
+            "h": 34.47222222222214
+        },
+        {
+            "y": 1747.7413888888887,
+            "x": 392,
+            "structure_id": "Fi_8",
+            "w": 78.92527777777775,
+            "h": 34.47222222222217
+        },
+        {
+            "y": 1746.7413888888887,
+            "x": 491,
+            "structure_id": "Fi_9",
+            "w": 64.56555555555553,
+            "h": 34.47222222222217
+        },
+        {
+            "y": 976.539722222222,
+            "x": 666,
+            "structure_id": "Fi_10",
+            "w": 70.33888888888885,
+            "h": 34.472222222222285
+        },
+        {
+            "y": 976.539722222222,
+            "x": 563,
+            "structure_id": "Fi_11",
+            "w": 76.17138888888883,
+            "h": 34.472222222222285
+        },
+        {
+            "y": 471.0663888888888,
+            "x": 1206,
+            "structure_id": "Fi_12",
+            "w": 71.91444444444437,
+            "h": 34.472222222222115
+        },
+        {
+            "y": 471.0663888888888,
+            "x": 1112,
+            "structure_id": "Fi_13",
+            "w": 76.27416666666659,
+            "h": 34.472222222222115
+        },
+        {
+            "y": 206.9194444444444,
+            "x": 512,
+            "structure_id": "Fi_14",
+            "w": 76.7588888888888,
+            "h": 34.47222222222214
+        },
+        {
+            "y": 206.9194444444444,
+            "x": 608,
+            "structure_id": "Fi_15",
+            "w": 70.39916666666659,
+            "h": 34.47222222222214
+        },
+        {
+            "y": 300.3041666666668,
+            "x": 608,
+            "structure_id": "Fi_16",
+            "w": 71.39916666666659,
+            "h": 34.472222222222115
+        },
+        {
+            "y": 302.3041666666668,
+            "x": 510,
+            "structure_id": "Fi_17",
+            "w": 80.7588888888888,
+            "h": 34.472222222222115
+        },
+        {
+            "y": 1499.4580555555553,
+            "x": 140,
+            "structure_id": "Fi_18",
+            "w": 170.64999999999998,
+            "h": 34.4722222222224
+        },
+        {
+            "y": 1499.4580555555553,
+            "x": 413,
+            "structure_id": "Fi_19",
+            "w": 164.36277777777786,
+            "h": 34.4722222222224
+        },
+        {
+            "y": 1118.794722222222,
+            "x": 237,
+            "structure_id": "Fi_20",
+            "w": 72.32055555555553,
+            "h": 34.4722222222224
+        },
+        {
+            "y": 1118.794722222222,
+            "x": 140,
+            "structure_id": "Fi_21",
+            "w": 78.68027777777775,
+            "h": 34.4722222222224
+        },
+        {
+            "y": 1170.5944444444444,
+            "x": 138,
+            "structure_id": "Fi_22",
+            "w": 1437,
+            "h": 148.40555555555557
+        },
+        {
+            "y": 1910.7891666666665,
+            "x": 140,
+            "structure_id": "Fi_23",
+            "w": 829.1733333333332,
+            "h": 34.47222222222217
+        },
+        {
+            "y": 1955,
+            "x": 179,
+            "structure_id": "Fi_24",
+            "w": 1209,
+            "h": 42
+        },
+        {
+            "y": 2009,
+            "x": 182,
+            "structure_id": "Fi_25",
+            "w": 1386,
+            "h": 39
+        },
+        {
+            "y": 2059.2905555555553,
+            "x": 140,
+            "structure_id": "Fi_26",
+            "w": 1331.6291666666668,
+            "h": 59.75
+        },
+        {
+            "y": 1559,
+            "x": 141.73416666666665,
+            "structure_id": "Fi_27",
+            "w": 635.2658333333334,
+            "h": 41
+        },
+        {
+            "y": 1616,
+            "x": 142.73222222222222,
+            "structure_id": "Fi_28",
+            "w": 943.2677777777778,
+            "h": 45
+        }
+    ],
+    "TextRun": [
+        {
+            "parent_TextBlock": "Tb_1",
+            "text": "If                     you                     have                     answered                     yes                     to                     any                     of                     the                     questions                     above                     give                     full                     details                     .                     This                     includes                     full                     details                     of                     any                     charges                     ,",
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1418.7777777777778,
+            "h": 34.47222222222217,
+            "y": 664.2399999999999,
+            "x": 141.72944444444448,
+            "structure_id": "Tr_1"
+        },
+        {
+            "parent_TextBlock": "Tb_1",
+            "text": "convictions                     and                     the                     sentence                     or                     penalty                     imposed                     .                     Continue                     on                     a                     separate                     piece                     of                     paper                     if                     necessary                     .",
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1279.8611111111115,
+            "h": 34.47222222222217,
+            "y": 697.5733333333333,
+            "x": 141.72944444444448,
+            "structure_id": "Tr_2"
+        },
+        {
+            "parent_TextBlock": "Tb_2",
+            "text": "Medical                     certificates                     you                     must                     provide",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 570.9333333333335,
+            "h": 41.83333333333326,
+            "y": 1339.6080555555554,
+            "x": 78.74027777777778,
+            "structure_id": "Tr_3"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "Have                     you                     had                     (                     or                     currently                     have                     )                     an                     association                     with                     ,                     membership                     of                     ,                     or                     involvement                     with                     ,                     any                     government                     ,",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 1363.2777777777778,
+            "h": 34.47222222222217,
+            "y": 530.9066666666666,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_4"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "regime                     ,                     group                     or                     agency                     that                     has                     advocated                     or                     committed                     war                     crimes                     ,                     crimes                     against                     humanity                     and                     /                     or                     other",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 1371.861111111111,
+            "h": 34.47222222222217,
+            "y": 564.2399999999999,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_5"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "gross                     human                     rights                     abuses                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 355.91666666666663,
+            "h": 34.47222222222217,
+            "y": 597.5733333333333,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_6"
+        },
+        {
+            "parent_TextBlock": "Tb_4",
+            "text": "No",
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 35.972222222222186,
+            "h": 34.47222222222213,
+            "y": 597.5733333333333,
+            "x": 654.3683333333333,
+            "structure_id": "Tr_7"
+        },
+        {
+            "parent_TextBlock": "Tb_5",
+            "text": "Yes",
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 42.86111111111113,
+            "h": 34.47222222222213,
+            "y": 597.5733333333333,
+            "x": 557.8391666666666,
+            "structure_id": "Tr_8"
+        },
+        {
+            "parent_TextBlock": "Tb_6",
+            "text": "Have                     you                     ever                     been                     refused                     a                     visa                     /                     permit                     to                     visit                     ,                     work                     ,                     study                     or                     reside                     in                     any                     country                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 1095.9999999999995,
+            "h": 34.472222222222115,
+            "y": 411.22583333333324,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_9"
+        },
+        {
+            "parent_TextBlock": "Tb_7",
+            "text": "Yes",
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 42.86111111111113,
+            "h": 34.47222222222213,
+            "y": 411.22583333333324,
+            "x": 1297.9080555555556,
+            "structure_id": "Tr_10"
+        },
+        {
+            "parent_TextBlock": "Tb_8",
+            "text": "No",
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 35.972222222222186,
+            "h": 34.47222222222213,
+            "y": 411.22583333333324,
+            "x": 1394.4372222222223,
+            "structure_id": "Tr_11"
+        },
+        {
+            "parent_TextBlock": "Tb_9",
+            "text": "refused                     entry",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 170.83333333333331,
+            "h": 34.47222222222214,
+            "y": 253.22499999999982,
+            "x": 158.39916666666664,
+            "structure_id": "Tr_12"
+        },
+        {
+            "parent_TextBlock": "Tb_10",
+            "text": "Yes",
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 42.86111111111113,
+            "h": 34.47222222222213,
+            "y": 253.22277777777785,
+            "x": 545.8977777777777,
+            "structure_id": "Tr_13"
+        },
+        {
+            "parent_TextBlock": "Tb_11",
+            "text": "No",
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 35.972222222222186,
+            "h": 34.47222222222213,
+            "y": 253.22277777777785,
+            "x": 642.4269444444444,
+            "structure_id": "Tr_14"
+        },
+        {
+            "parent_TextBlock": "Tb_12",
+            "text": "Have                     you                     ever                     been                     :",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 254.36111111111106,
+            "h": 34.472222222222115,
+            "y": 160.61583333333323,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_15"
+        },
+        {
+            "parent_TextBlock": "Tb_13",
+            "text": "E3",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.533333333333335,
+            "h": 35.27777777777759,
+            "y": 157.63277777777773,
+            "x": 89.67916666666666,
+            "structure_id": "Tr_16"
+        },
+        {
+            "parent_TextBlock": "Tb_14",
+            "text": "E4",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 25,
+            "h": 35.27777777777759,
+            "y": 408.24277777777775,
+            "x": 89.44555555555556,
+            "structure_id": "Tr_17"
+        },
+        {
+            "parent_TextBlock": "Tb_15",
+            "text": "E5",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.9111111111111,
+            "h": 35.27777777777759,
+            "y": 468.0830555555556,
+            "x": 89.49,
+            "structure_id": "Tr_18"
+        },
+        {
+            "parent_TextBlock": "Tb_16",
+            "text": "E6",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 26.288888888888895,
+            "h": 35.27777777777759,
+            "y": 527.9233333333334,
+            "x": 88.80111111111111,
+            "structure_id": "Tr_19"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Are                     you                     pregnant                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 232.6666666666666,
+            "h": 34.47222222222217,
+            "y": 1749.7413888888887,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_20"
+        },
+        {
+            "parent_TextBlock": "Tb_18",
+            "text": "Yes",
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 42.86111111111113,
+            "h": 34.472222222222214,
+            "y": 1749.7413888888887,
+            "x": 428.0641666666666,
+            "structure_id": "Tr_21"
+        },
+        {
+            "parent_TextBlock": "Tb_19",
+            "text": "No",
+            "parent_Field": "Fi_9",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 35.972222222222186,
+            "h": 34.472222222222214,
+            "y": 1749.7413888888887,
+            "x": 524.5933333333334,
+            "structure_id": "Tr_22"
+        },
+        {
+            "parent_TextBlock": "Tb_20",
+            "text": "Do                     you                     have                     tuberculosis                     (                     TB                     )                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 387.8611111111112,
+            "h": 34.472222222222285,
+            "y": 976.539722222222,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_23"
+        },
+        {
+            "parent_TextBlock": "Tb_21",
+            "text": "No",
+            "parent_Field": "Fi_10",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 35.972222222222186,
+            "h": 34.47222222222229,
+            "y": 976.539722222222,
+            "x": 699.3666666666667,
+            "structure_id": "Tr_24"
+        },
+        {
+            "parent_TextBlock": "Tb_22",
+            "text": "Yes",
+            "parent_Field": "Fi_11",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 42.86111111111113,
+            "h": 34.47222222222229,
+            "y": 976.539722222222,
+            "x": 596.3102777777777,
+            "structure_id": "Tr_25"
+        },
+        {
+            "parent_TextBlock": "Tb_23",
+            "text": "Have                     you                     ever                     been                     a                     member                     of                     ,                     or                     adhered                     to                     ,                     any                     terrorist                     organisation                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 950.0277777777774,
+            "h": 34.472222222222115,
+            "y": 471.0663888888888,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_26"
+        },
+        {
+            "parent_TextBlock": "Tb_24",
+            "text": "No",
+            "parent_Field": "Fi_12",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 35.972222222222186,
+            "h": 34.47222222222213,
+            "y": 471.0663888888888,
+            "x": 1241.9422222222222,
+            "structure_id": "Tr_27"
+        },
+        {
+            "parent_TextBlock": "Tb_25",
+            "text": "Yes",
+            "parent_Field": "Fi_13",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 42.86111111111113,
+            "h": 34.47222222222213,
+            "y": 471.0663888888888,
+            "x": 1145.4130555555555,
+            "structure_id": "Tr_28"
+        },
+        {
+            "parent_TextBlock": "Tb_26",
+            "text": "from                     any                     country                     ,                     including                     New                     Zealand                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 527.9722222222223,
+            "h": 34.472222222222115,
+            "y": 351.38750000000005,
+            "x": 141.73249999999996,
+            "structure_id": "Tr_29"
+        },
+        {
+            "parent_TextBlock": "Tb_27",
+            "text": "excluded",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 112.08333333333334,
+            "h": 34.472222222222115,
+            "y": 206.92138888888866,
+            "x": 164.9286111111111,
+            "structure_id": "Tr_30"
+        },
+        {
+            "parent_TextBlock": "Tb_28",
+            "text": "Yes",
+            "parent_Field": "Fi_14",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 42.86111111111113,
+            "h": 34.47222222222213,
+            "y": 206.9194444444444,
+            "x": 545.8977777777777,
+            "structure_id": "Tr_31"
+        },
+        {
+            "parent_TextBlock": "Tb_29",
+            "text": "No",
+            "parent_Field": "Fi_15",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 35.972222222222186,
+            "h": 34.47222222222213,
+            "y": 206.9194444444444,
+            "x": 642.4269444444444,
+            "structure_id": "Tr_32"
+        },
+        {
+            "parent_TextBlock": "Tb_30",
+            "text": "removed                     or                     deported",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 268.4722222222223,
+            "h": 34.472222222222115,
+            "y": 302.3061111111111,
+            "x": 165.34361111111107,
+            "structure_id": "Tr_33"
+        },
+        {
+            "parent_TextBlock": "Tb_31",
+            "text": "No",
+            "parent_Field": "Fi_16",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 35.972222222222186,
+            "h": 34.47222222222213,
+            "y": 302.3041666666668,
+            "x": 642.4269444444444,
+            "structure_id": "Tr_34"
+        },
+        {
+            "parent_TextBlock": "Tb_32",
+            "text": "Yes",
+            "parent_Field": "Fi_17",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_8",
+            "w": 42.86111111111113,
+            "h": 34.47222222222213,
+            "y": 302.3041666666668,
+            "x": 545.8977777777777,
+            "structure_id": "Tr_35"
+        },
+        {
+            "parent_TextBlock": "Tb_33",
+            "text": "?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.666666666666664,
+            "h": 34.47222222222213,
+            "y": 206.92138888888866,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_36"
+        },
+        {
+            "parent_TextBlock": "Tb_34",
+            "text": "?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.666666666666664,
+            "h": 34.47222222222213,
+            "y": 253.22499999999982,
+            "x": 141.73249999999996,
+            "structure_id": "Tr_37"
+        },
+        {
+            "parent_TextBlock": "Tb_35",
+            "text": "?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.666666666666664,
+            "h": 34.47222222222213,
+            "y": 302.3061111111111,
+            "x": 141.73249999999996,
+            "structure_id": "Tr_38"
+        },
+        {
+            "parent_TextBlock": "Tb_36",
+            "text": "Have                     you                     submitted                     a                     medical                     certificate                     ,                     or                     a                     chest                     X                     -                     ray                     certificate                     ,                     with                     another                     Immigration                     New                     Zealand",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 1367.3611111111115,
+            "h": 34.4722222222224,
+            "y": 1413.0280555555555,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_39"
+        },
+        {
+            "parent_TextBlock": "Tb_36",
+            "text": "application                     in                     the                     last                     36                     months                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 428.9722222222222,
+            "h": 34.4722222222224,
+            "y": 1446.361388888889,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_40"
+        },
+        {
+            "parent_TextBlock": "Tb_37",
+            "text": "Yes",
+            "parent_Field": "Fi_18",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 42.861111111111086,
+            "h": 34.4722222222224,
+            "y": 1499.4580555555553,
+            "x": 175.81916666666666,
+            "structure_id": "Tr_41"
+        },
+        {
+            "parent_TextBlock": "Tb_37",
+            "text": "Go                     to",
+            "parent_Field": "Fi_18",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 55.02222222222218,
+            "h": 27.577777777777783,
+            "y": 1504.9636111111113,
+            "x": 225.20666666666665,
+            "structure_id": "Tr_42"
+        },
+        {
+            "parent_TextBlock": "Tb_37",
+            "text": "F5",
+            "parent_Field": "Fi_18",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 16.939999999999998,
+            "h": 24.694444444444343,
+            "y": 1505.6974999999998,
+            "x": 293.71,
+            "structure_id": "Tr_43"
+        },
+        {
+            "parent_TextBlock": "Tb_38",
+            "text": "No",
+            "parent_Field": "Fi_19",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 35.97222222222217,
+            "h": 34.4722222222224,
+            "y": 1499.4580555555553,
+            "x": 448.9380555555555,
+            "structure_id": "Tr_44"
+        },
+        {
+            "parent_TextBlock": "Tb_38",
+            "text": "Go                     to",
+            "parent_Field": "Fi_19",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 55.0222222222223,
+            "h": 27.577777777777783,
+            "y": 1504.9636111111113,
+            "x": 491.43722222222215,
+            "structure_id": "Tr_45"
+        },
+        {
+            "parent_TextBlock": "Tb_38",
+            "text": "F6",
+            "parent_Field": "Fi_19",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_9",
+            "w": 17.904444444444493,
+            "h": 24.694444444444343,
+            "y": 1505.6974999999998,
+            "x": 559.4583333333334,
+            "structure_id": "Tr_46"
+        },
+        {
+            "parent_TextBlock": "Tb_39",
+            "text": "Do                     you                     have                     any                     serious                     health                     conditions                     ,                     such                     as                     conditions                     requiring                     hospitalisation                     ,                     residential                     care                     ,                     significant",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 1415.5880555555555,
+            "h": 34.4722222222224,
+            "y": 1036.3799999999999,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_47"
+        },
+        {
+            "parent_TextBlock": "Tb_39",
+            "text": "*",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 9.716666666666697,
+            "h": 20.097305555555522,
+            "y": 1038.6090833333333,
+            "x": 1405.348611111111,
+            "structure_id": "Tr_48"
+        },
+        {
+            "parent_TextBlock": "Tb_39",
+            "text": "support                     ,                     long                     -                     term                     medication                     or                     dialysis                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 520.3611111111109,
+            "h": 34.4722222222224,
+            "y": 1069.7133333333331,
+            "x": 141.73888888888877,
+            "structure_id": "Tr_49"
+        },
+        {
+            "parent_TextBlock": "Tb_40",
+            "text": "No",
+            "parent_Field": "Fi_20",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 35.97222222222223,
+            "h": 34.47222222222229,
+            "y": 1118.794722222222,
+            "x": 272.3483333333333,
+            "structure_id": "Tr_50"
+        },
+        {
+            "parent_TextBlock": "Tb_41",
+            "text": "Yes",
+            "parent_Field": "Fi_21",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_10",
+            "w": 42.861111111111086,
+            "h": 34.47222222222229,
+            "y": 1118.794722222222,
+            "x": 175.81916666666666,
+            "structure_id": "Tr_51"
+        },
+        {
+            "parent_TextBlock": "Tb_42",
+            "text": "*                     Residential                     care                     is                     defined                     as                     in                     -                     patient                     care                     for                     people                     with                     psychiatric                     ,                     sensory                     or                     intellectual                     disabilities                     or                     live                     -                     in                     facilities                     for",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1473.6500000000003,
+            "h": 31.02500000000009,
+            "y": 2169.161944444444,
+            "x": 78.74,
+            "structure_id": "Tr_52"
+        },
+        {
+            "parent_TextBlock": "Tb_42",
+            "text": "the                     aged                     .",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 106.69999999999997,
+            "h": 31.02500000000009,
+            "y": 2199.1619444444445,
+            "x": 102.365,
+            "structure_id": "Tr_53"
+        },
+        {
+            "parent_TextBlock": "Tb_43",
+            "text": "Yes",
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 44.222222222222285,
+            "h": 34.861111111111086,
+            "y": 1170.5944444444444,
+            "x": 415.92861111111097,
+            "structure_id": "Tr_54"
+        },
+        {
+            "parent_TextBlock": "Tb_43",
+            "text": "If                     you                     have                     answered                     to                     the                     questions                     in                     or                     ,                     provide                     details                     below                     .",
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 967.356111111111,
+            "h": 34.4722222222224,
+            "y": 1170.761111111111,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_55"
+        },
+        {
+            "parent_TextBlock": "Tb_43",
+            "text": "F1",
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 14.155555555555566,
+            "h": 24.694444444444343,
+            "y": 1177.0005555555554,
+            "x": 721.7349999999999,
+            "structure_id": "Tr_56"
+        },
+        {
+            "parent_TextBlock": "Tb_43",
+            "text": "F2",
+            "parent_Field": "Fi_22",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 16.42666666666662,
+            "h": 24.694444444444343,
+            "y": 1177.0083333333334,
+            "x": 793.2452777777778,
+            "structure_id": "Tr_57"
+        },
+        {
+            "parent_TextBlock": "Tb_44",
+            "text": "Tick                     the                     option                     that                     applies                     to                     you                     :                     Is                     a                     physician                     submitting                     your                     medical                     and                     /                     or                     chest                     X                     -                     ray                     certificates                     to",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 1349.6388888888894,
+            "h": 34.47222222222217,
+            "y": 1836.2483333333332,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_58"
+        },
+        {
+            "parent_TextBlock": "Tb_44",
+            "text": "Immigration                     New                     Zealand                     on                     your                     behalf                     ?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 526.3888888888888,
+            "h": 34.47222222222217,
+            "y": 1869.5816666666665,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_59"
+        },
+        {
+            "parent_TextBlock": "Tb_45",
+            "text": "Yes",
+            "parent_Field": "Fi_23",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 42.861111111111114,
+            "h": 34.47222222222217,
+            "y": 1910.7891666666665,
+            "x": 174.70805555555555,
+            "structure_id": "Tr_60"
+        },
+        {
+            "parent_TextBlock": "Tb_45",
+            "text": "Has                     your                     physician                     supplied                     you                     with                     an                     eMedical                     Reference                     Code                     (                     NZER                     )                     ?",
+            "parent_Field": "Fi_23",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 744.7999999999998,
+            "h": 27.577777777777783,
+            "y": 1916.294722222222,
+            "x": 224.37333333333333,
+            "structure_id": "Tr_61"
+        },
+        {
+            "parent_TextBlock": "Tb_46",
+            "text": "Yes",
+            "parent_Field": "Fi_24",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 42.861111111111114,
+            "h": 34.47222222222217,
+            "y": 1956.5619444444444,
+            "x": 214.07805555555555,
+            "structure_id": "Tr_62"
+        },
+        {
+            "parent_TextBlock": "Tb_46",
+            "text": "Enter                     your                     eMedical                     Reference                     Code                     here                     :",
+            "parent_Field": "Fi_24",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 418.99999999999994,
+            "h": 27.577777777777783,
+            "y": 1962.0674999999999,
+            "x": 263.7433333333333,
+            "structure_id": "Tr_63"
+        },
+        {
+            "parent_TextBlock": "Tb_47",
+            "text": "No",
+            "parent_Field": "Fi_25",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 35.97222222222223,
+            "h": 34.47222222222217,
+            "y": 2010.2091666666665,
+            "x": 214.07805555555555,
+            "structure_id": "Tr_64"
+        },
+        {
+            "parent_TextBlock": "Tb_47",
+            "text": "Enter                     the                     name                     of                     the                     clinic                     that                     is                     submitting                     your                     health                     information                     :",
+            "parent_Field": "Fi_25",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 716.6444444444442,
+            "h": 27.577777777777783,
+            "y": 2015.714722222222,
+            "x": 256.85499999999996,
+            "structure_id": "Tr_65"
+        },
+        {
+            "parent_TextBlock": "Tb_48",
+            "text": "No",
+            "parent_Field": "Fi_26",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 35.97222222222223,
+            "h": 34.47222222222217,
+            "y": 2059.2905555555553,
+            "x": 175.81916666666666,
+            "structure_id": "Tr_66"
+        },
+        {
+            "parent_TextBlock": "Tb_48",
+            "text": "If                     the                     physician                     has                     returned                     the                     medical                     and                     /                     or                     chest                     X                     -                     ray                     certificates                     to                     you                     ,                     then                     you                     will                     need                     to                     submit                     these                     with                     your",
+            "parent_Field": "Fi_26",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 1253.3111111111114,
+            "h": 27.577777777777555,
+            "y": 2064.796111111111,
+            "x": 218.31805555555553,
+            "structure_id": "Tr_67"
+        },
+        {
+            "parent_TextBlock": "Tb_48",
+            "text": "visa                     application                     .",
+            "parent_Field": "Fi_26",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_11",
+            "w": 163.0222222222222,
+            "h": 27.577777777777555,
+            "y": 2091.462777777778,
+            "x": 217.62916666666663,
+            "structure_id": "Tr_68"
+        },
+        {
+            "parent_TextBlock": "Tb_49",
+            "text": "Date                     of                     previous                     application",
+            "parent_Field": "Fi_27",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 355.2500000000001,
+            "h": 34.4722222222224,
+            "y": 1559.298333333333,
+            "x": 141.73416666666665,
+            "structure_id": "Tr_69"
+        },
+        {
+            "parent_TextBlock": "Tb_50",
+            "text": "Unless                     your                     health                     has                     deteriorated                     since                     your                     previous                     medical                     certificate                     was                     issued                     ,                     then                     you                     do                     not                     have                     to                     provide                     a                     medical                     certificate",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1412.155555555556,
+            "h": 27.577777777777783,
+            "y": 1668.74,
+            "x": 141.73999999999998,
+            "structure_id": "Tr_70"
+        },
+        {
+            "parent_TextBlock": "Tb_50",
+            "text": "at                     this                     stage                     .                     We                     will                     advise                     you                     if                     you                     have                     to                     submit                     another                     certificate                     ,                     test                     ,                     or                     report                     at                     a                     later                     date                     .",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1044.8000000000006,
+            "h": 27.577777777777783,
+            "y": 1695.4066666666668,
+            "x": 141.73999999999998,
+            "structure_id": "Tr_71"
+        },
+        {
+            "parent_TextBlock": "Tb_51",
+            "text": "Type                     of                     application",
+            "parent_Field": "Fi_28",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 238.1944444444444,
+            "h": 34.47222222222217,
+            "y": 1620.819722222222,
+            "x": 141.73222222222222,
+            "structure_id": "Tr_72"
+        },
+        {
+            "parent_TextBlock": "Tb_52",
+            "text": "F1",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 20.222222222222225,
+            "h": 35.27777777777774,
+            "y": 973.5563888888888,
+            "x": 91.83444444444444,
+            "structure_id": "Tr_73"
+        },
+        {
+            "parent_TextBlock": "Tb_53",
+            "text": "F2",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 23.46666666666667,
+            "h": 35.27777777777774,
+            "y": 1033.3966666666668,
+            "x": 90.21222222222221,
+            "structure_id": "Tr_74"
+        },
+        {
+            "parent_TextBlock": "Tb_54",
+            "text": "F3",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 23.822222222222223,
+            "h": 35.27777777777774,
+            "y": 1167.7777777777776,
+            "x": 90.03472222222223,
+            "structure_id": "Tr_75"
+        },
+        {
+            "parent_TextBlock": "Tb_55",
+            "text": "F4",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.288888888888888,
+            "h": 35.27777777777774,
+            "y": 1410.0447222222222,
+            "x": 89.80111111111111,
+            "structure_id": "Tr_76"
+        },
+        {
+            "parent_TextBlock": "Tb_56",
+            "text": "F5",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 24.19999999999999,
+            "h": 35.27777777777774,
+            "y": 1556.3152777777777,
+            "x": 89.84555555555555,
+            "structure_id": "Tr_77"
+        },
+        {
+            "parent_TextBlock": "Tb_57",
+            "text": "F6",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 25.577777777777772,
+            "h": 35.27777777777782,
+            "y": 1746.7580555555555,
+            "x": 89.15666666666667,
+            "structure_id": "Tr_78"
+        },
+        {
+            "parent_TextBlock": "Tb_58",
+            "text": "F7",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 22.28888888888889,
+            "h": 35.27777777777782,
+            "y": 1833.265,
+            "x": 90.80111111111111,
+            "structure_id": "Tr_79"
+        },
+        {
+            "parent_TextBlock": "Tb_59",
+            "text": "Your                     health",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 178.5,
+            "h": 41.83333333333337,
+            "y": 906.9622222222222,
+            "x": 280.2736111111111,
+            "structure_id": "Tr_80"
+        },
+        {
+            "parent_TextBlock": "Tb_60",
+            "text": "Section                     F",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 139.10000000000002,
+            "h": 41.366666666666674,
+            "y": 907.1622222222221,
+            "x": 94.48805555555556,
+            "structure_id": "Tr_81"
+        },
+        {
+            "parent_TextBlock": "Tb_61",
+            "text": "When                     filling                     in                     this                     form                     ,                     please                     write                     clearly                     using                     CAPITAL                     LETTERS                     .",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 703.3777777777781,
+            "h": 27.888888888888786,
+            "y": 49.99805555555541,
+            "x": 78.74,
+            "structure_id": "Tr_82"
+        },
+        {
+            "parent_TextBlock": "Tb_62",
+            "text": "4",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 13.111111111111114,
+            "h": 28.22222222222217,
+            "y": 2269.7302777777777,
+            "x": 39.37,
+            "structure_id": "Tr_83"
+        },
+        {
+            "parent_TextBlock": "Tb_62",
+            "text": "?                     Working                     Holiday                     Scheme ?                     Second                     Work                     Visa                     Application                     -                     November                     2016",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 770.5111111111112,
+            "h": 27.577777777777555,
+            "y": 2269.9747222222218,
+            "x": 57.703333333333326,
+            "structure_id": "Tr_84"
+        }
+    ],
+    "ChoiceGroup": [
+        {
+            "y": 524,
+            "x": 134,
+            "structure_id": "Chgp_1",
+            "w": 1383,
+            "h": 113
+        },
+        {
+            "y": 406,
+            "x": 134,
+            "structure_id": "Chgp_2",
+            "w": 1299,
+            "h": 46
+        },
+        {
+            "y": 245,
+            "x": 158,
+            "structure_id": "Chgp_3",
+            "w": 529,
+            "h": 45
+        },
+        {
+            "y": 1742,
+            "x": 135,
+            "structure_id": "Chgp_4",
+            "w": 431,
+            "h": 48
+        },
+        {
+            "y": 971,
+            "x": 137,
+            "structure_id": "Chgp_5",
+            "w": 606,
+            "h": 45
+        },
+        {
+            "y": 464,
+            "x": 137,
+            "structure_id": "Chgp_6",
+            "w": 1151.0343347639482,
+            "h": 47
+        },
+        {
+            "y": 203,
+            "x": 162,
+            "structure_id": "Chgp_7",
+            "w": 527,
+            "h": 41
+        },
+        {
+            "y": 295,
+            "x": 162,
+            "structure_id": "Chgp_8",
+            "w": 522,
+            "h": 46
+        },
+        {
+            "y": 1408,
+            "x": 132,
+            "structure_id": "Chgp_9",
+            "w": 1382,
+            "h": 132
+        },
+        {
+            "y": 1028,
+            "x": 134,
+            "structure_id": "Chgp_10",
+            "w": 1431.0055671537925,
+            "h": 128
+        },
+        {
+            "y": 1832,
+            "x": 132,
+            "structure_id": "Chgp_11",
+            "w": 1449,
+            "h": 292
+        }
+    ]
+}

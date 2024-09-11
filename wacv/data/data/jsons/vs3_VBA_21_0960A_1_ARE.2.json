@@ -1,0 +1,1900 @@
+{
+    "Widget": [
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 140.50236220472442,
+            "h": 46.83307086614173,
+            "y": 83.33070866141732,
+            "x": 511.9220472440945,
+            "structure_id": "Wi_1"
+        },
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 88.94488188976378,
+            "h": 46.83307086614173,
+            "y": 83.33070866141732,
+            "x": 705.9362204724409,
+            "structure_id": "Wi_2"
+        },
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 188.88031496062993,
+            "h": 46.83307086614173,
+            "y": 83.33070866141732,
+            "x": 837.0944881889764,
+            "structure_id": "Wi_3"
+        },
+        {
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1100,
+            "h": 33.33070866141732,
+            "y": 216.6692913385827,
+            "x": 500,
+            "structure_id": "Wi_4"
+        },
+        {
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 250,
+            "x": 450,
+            "structure_id": "Wi_5"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_1",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 25,
+            "h": 25,
+            "y": 187.5,
+            "x": 1391.6669291338583,
+            "structure_id": "Wi_6"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_2",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 25,
+            "h": 25,
+            "y": 187.5,
+            "x": 1508.3275590551182,
+            "structure_id": "Wi_7"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 25,
+            "h": 25,
+            "y": 337.50000000000006,
+            "x": 708.3275590551182,
+            "structure_id": "Wi_8"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_4",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 25,
+            "h": 25,
+            "y": 337.50000000000006,
+            "x": 824.9889763779528,
+            "structure_id": "Wi_9"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_5",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 25,
+            "h": 25,
+            "y": 587.5,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_10"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_6",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 25,
+            "h": 25,
+            "y": 587.5,
+            "x": 269.4417322834646,
+            "structure_id": "Wi_11"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_7",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 25,
+            "h": 25,
+            "y": 587.5,
+            "x": 436.11102362204724,
+            "structure_id": "Wi_12"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_8",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 25,
+            "h": 25,
+            "y": 587.5,
+            "x": 586.1110236220472,
+            "structure_id": "Wi_13"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_9",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 25,
+            "h": 25,
+            "y": 587.5,
+            "x": 769.4417322834646,
+            "structure_id": "Wi_14"
+        },
+        {
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 616.6692913385826,
+            "h": 33.33070866141732,
+            "y": 366.6692913385827,
+            "x": 983.3307086614174,
+            "structure_id": "Wi_15"
+        },
+        {
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 400.00000000000006,
+            "x": 333.3307086614173,
+            "structure_id": "Wi_16"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_10",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 25,
+            "y": 670.8385826771654,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_17"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_11",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 25,
+            "y": 737.5086614173229,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_18"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_12",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 25,
+            "y": 820.8385826771654,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_19"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_13",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 25,
+            "y": 670.8385826771654,
+            "x": 919.4417322834646,
+            "structure_id": "Wi_20"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_14",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 25,
+            "h": 25,
+            "y": 770.8385826771653,
+            "x": 919.4417322834646,
+            "structure_id": "Wi_21"
+        },
+        {
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 1233.3220472440946,
+            "x": 1133.3307086614172,
+            "structure_id": "Wi_22"
+        },
+        {
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 116.66929133858268,
+            "h": 33.33070866141732,
+            "y": 1283.3220472440946,
+            "x": 733.3307086614174,
+            "structure_id": "Wi_23"
+        },
+        {
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 1283.3220472440946,
+            "x": 1066.6692913385828,
+            "structure_id": "Wi_24"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_15",
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 25,
+            "h": 25,
+            "y": 1054.1527559055119,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_25"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_16",
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 25,
+            "h": 25,
+            "y": 1053.736220472441,
+            "x": 219.44173228346457,
+            "structure_id": "Wi_26"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_17",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 25,
+            "h": 25,
+            "y": 1140.2692913385827,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_27"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_17",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 1133.3220472440944,
+            "x": 333.3385826771654,
+            "structure_id": "Wi_28"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_18",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 25,
+            "h": 25,
+            "y": 1173.6000000000001,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_29"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_18",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 1166.6614173228347,
+            "x": 483.33858267716533,
+            "structure_id": "Wi_30"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_19",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 25,
+            "h": 25,
+            "y": 1206.9307086614174,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_31"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_19",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 200,
+            "h": 33.33070866141732,
+            "y": 1199.992125984252,
+            "x": 583.3385826771653,
+            "structure_id": "Wi_32"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_20",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 25,
+            "h": 25,
+            "y": 1240.2692913385827,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_33"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_20",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 666.6692913385828,
+            "h": 33.33070866141732,
+            "y": 1233.3220472440946,
+            "x": 383.3307086614173,
+            "structure_id": "Wi_34"
+        },
+        {
+            "parent_Field": "Fi_9",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1499.4551181102363,
+            "h": 550,
+            "y": 1500,
+            "x": 100.54488188976379,
+            "structure_id": "Wi_35"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_21",
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 25,
+            "h": 25,
+            "y": 1454.1614173228347,
+            "x": 102.77244094488188,
+            "structure_id": "Wi_36"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_22",
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 25,
+            "h": 25,
+            "y": 1454.1527559055119,
+            "x": 219.44173228346457,
+            "structure_id": "Wi_37"
+        }
+    ],
+    "TextBlock": [
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 417,
+            "h": 19,
+            "y": 105,
+            "x": 83,
+            "structure_id": "Tb_1"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 672,
+            "h": 22,
+            "y": 140,
+            "x": 514,
+            "structure_id": "Tb_2"
+        },
+        {
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 390,
+            "h": 22,
+            "y": 222,
+            "x": 100,
+            "structure_id": "Tb_3"
+        },
+        {
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 328,
+            "h": 22,
+            "y": 256,
+            "x": 100,
+            "structure_id": "Tb_4"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 1267,
+            "h": 20,
+            "y": 193,
+            "x": 100,
+            "structure_id": "Tb_5"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_1",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 39,
+            "h": 20,
+            "y": 193,
+            "x": 1433,
+            "structure_id": "Tb_6"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_2",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 29,
+            "h": 20,
+            "y": 193,
+            "x": 1550,
+            "structure_id": "Tb_7"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 558,
+            "h": 22,
+            "y": 307,
+            "x": 571,
+            "structure_id": "Tb_8"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 577,
+            "h": 19,
+            "y": 343,
+            "x": 100,
+            "structure_id": "Tb_9"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 39,
+            "h": 19,
+            "y": 343,
+            "x": 750,
+            "structure_id": "Tb_10"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_4",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 29,
+            "h": 19,
+            "y": 343,
+            "x": 867,
+            "structure_id": "Tb_11"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 793,
+            "h": 22,
+            "y": 547,
+            "x": 100,
+            "structure_id": "Tb_12"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_5",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 93,
+            "h": 20,
+            "y": 590,
+            "x": 150,
+            "structure_id": "Tb_13"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_6",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 84,
+            "h": 20,
+            "y": 590,
+            "x": 317,
+            "structure_id": "Tb_14"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_7",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 75,
+            "h": 20,
+            "y": 590,
+            "x": 483,
+            "structure_id": "Tb_15"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_8",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 102,
+            "h": 20,
+            "y": 590,
+            "x": 633,
+            "structure_id": "Tb_16"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_9",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 95,
+            "h": 20,
+            "y": 590,
+            "x": 817,
+            "structure_id": "Tb_17"
+        },
+        {
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 862,
+            "h": 22,
+            "y": 372,
+            "x": 100,
+            "structure_id": "Tb_18"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1456,
+            "h": 43,
+            "y": 487,
+            "x": 100,
+            "structure_id": "Tb_19"
+        },
+        {
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 218,
+            "h": 22,
+            "y": 406,
+            "x": 100,
+            "structure_id": "Tb_20"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 624,
+            "h": 19,
+            "y": 632,
+            "x": 100,
+            "structure_id": "Tb_21"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_10",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 739,
+            "h": 49,
+            "y": 667,
+            "x": 150,
+            "structure_id": "Tb_22"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_11",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 749,
+            "h": 49,
+            "y": 742,
+            "x": 150,
+            "structure_id": "Tb_23"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_12",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 749,
+            "h": 48,
+            "y": 826,
+            "x": 150,
+            "structure_id": "Tb_24"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_13",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 621,
+            "h": 75,
+            "y": 671,
+            "x": 967,
+            "structure_id": "Tb_25"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_14",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 623,
+            "h": 43,
+            "y": 770,
+            "x": 967,
+            "structure_id": "Tb_26"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 388,
+            "h": 22,
+            "y": 907,
+            "x": 659,
+            "structure_id": "Tb_27"
+        },
+        {
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 59,
+            "h": 20,
+            "y": 1247,
+            "x": 1067,
+            "structure_id": "Tb_28"
+        },
+        {
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 613,
+            "h": 20,
+            "y": 1297,
+            "x": 100,
+            "structure_id": "Tb_29"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1442,
+            "h": 48,
+            "y": 1326,
+            "x": 100,
+            "structure_id": "Tb_30"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1490,
+            "h": 72,
+            "y": 940,
+            "x": 100,
+            "structure_id": "Tb_31"
+        },
+        {
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 150,
+            "h": 20,
+            "y": 1297,
+            "x": 900,
+            "structure_id": "Tb_32"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 673,
+            "h": 19,
+            "y": 1024,
+            "x": 100,
+            "structure_id": "Tb_33"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_15",
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 39,
+            "h": 19,
+            "y": 1057,
+            "x": 150,
+            "structure_id": "Tb_34"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_16",
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 33,
+            "h": 19,
+            "y": 1057,
+            "x": 267,
+            "structure_id": "Tb_35"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 660,
+            "h": 22,
+            "y": 1106,
+            "x": 100,
+            "structure_id": "Tb_36"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_17",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 173,
+            "h": 20,
+            "y": 1147,
+            "x": 150,
+            "structure_id": "Tb_37"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_18",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 317,
+            "h": 19,
+            "y": 1181,
+            "x": 150,
+            "structure_id": "Tb_38"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_19",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 420,
+            "h": 19,
+            "y": 1214,
+            "x": 150,
+            "structure_id": "Tb_39"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_20",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 213,
+            "h": 20,
+            "y": 1247,
+            "x": 150,
+            "structure_id": "Tb_40"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 554,
+            "h": 22,
+            "y": 1390,
+            "x": 573,
+            "structure_id": "Tb_41"
+        },
+        {
+            "parent_Field": "Fi_9",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 535,
+            "h": 22,
+            "y": 1456,
+            "x": 307,
+            "structure_id": "Tb_42"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 698,
+            "h": 19,
+            "y": 1424,
+            "x": 100,
+            "structure_id": "Tb_43"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_21",
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 39,
+            "h": 19,
+            "y": 1457,
+            "x": 150,
+            "structure_id": "Tb_44"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_22",
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 40,
+            "h": 19,
+            "y": 1458,
+            "x": 267,
+            "structure_id": "Tb_45"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 299,
+            "h": 20,
+            "y": 2090,
+            "x": 83,
+            "structure_id": "Tb_46"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 71,
+            "h": 22,
+            "y": 2089,
+            "x": 1546,
+            "structure_id": "Tb_47"
+        }
+    ],
+    "Choice_Field": [
+        {
+            "y": 187.5,
+            "x": 1391.6669291338583,
+            "structure_id": "Chf_1",
+            "w": 80.33307086614172,
+            "h": 25.5
+        },
+        {
+            "y": 187.5,
+            "x": 1508.3275590551182,
+            "structure_id": "Chf_2",
+            "w": 70.67244094488183,
+            "h": 25.5
+        },
+        {
+            "y": 337.50000000000006,
+            "x": 708.3275590551182,
+            "structure_id": "Chf_3",
+            "w": 80.67244094488183,
+            "h": 25
+        },
+        {
+            "y": 337.50000000000006,
+            "x": 824.9889763779528,
+            "structure_id": "Chf_4",
+            "w": 71.01102362204722,
+            "h": 25
+        },
+        {
+            "y": 587.5,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_5",
+            "w": 140.22755905511812,
+            "h": 25
+        },
+        {
+            "y": 587.5,
+            "x": 269.4417322834646,
+            "structure_id": "Chf_6",
+            "w": 131.5582677165354,
+            "h": 25
+        },
+        {
+            "y": 587.5,
+            "x": 436.11102362204724,
+            "structure_id": "Chf_7",
+            "w": 121.88897637795276,
+            "h": 25
+        },
+        {
+            "y": 587.5,
+            "x": 586.1110236220472,
+            "structure_id": "Chf_8",
+            "w": 148.88897637795276,
+            "h": 25
+        },
+        {
+            "y": 587.5,
+            "x": 769.4417322834646,
+            "structure_id": "Chf_9",
+            "w": 142.5582677165354,
+            "h": 25
+        },
+        {
+            "y": 667,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_10",
+            "w": 786.2275590551181,
+            "h": 49
+        },
+        {
+            "y": 737.5086614173229,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_11",
+            "w": 796.2275590551181,
+            "h": 53.491338582677145
+        },
+        {
+            "y": 820.8385826771654,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_12",
+            "w": 796.2275590551181,
+            "h": 53.16141732283461
+        },
+        {
+            "y": 670.8385826771654,
+            "x": 919.4417322834646,
+            "structure_id": "Chf_13",
+            "w": 668.5582677165354,
+            "h": 75.16141732283461
+        },
+        {
+            "y": 770,
+            "x": 919.4417322834646,
+            "structure_id": "Chf_14",
+            "w": 670.5582677165354,
+            "h": 43
+        },
+        {
+            "y": 1054.1527559055119,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_15",
+            "w": 86.22755905511812,
+            "h": 25
+        },
+        {
+            "y": 1053.736220472441,
+            "x": 219.44173228346457,
+            "structure_id": "Chf_16",
+            "w": 80.55826771653543,
+            "h": 25
+        },
+        {
+            "y": 1133.3220472440944,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_17",
+            "w": 430.56614173228354,
+            "h": 33.67795275590561
+        },
+        {
+            "y": 1166.6614173228347,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_18",
+            "w": 580.5661417322834,
+            "h": 33.33858267716528
+        },
+        {
+            "y": 1199.992125984252,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_19",
+            "w": 680.5661417322834,
+            "h": 33.33070866141725
+        },
+        {
+            "y": 1233.3220472440946,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_20",
+            "w": 947.2275590551181,
+            "h": 33.67795275590538
+        },
+        {
+            "y": 1454.1614173228347,
+            "x": 102.77244094488188,
+            "structure_id": "Chf_21",
+            "w": 86.22755905511812,
+            "h": 25
+        },
+        {
+            "y": 1454.1527559055119,
+            "x": 219.44173228346457,
+            "structure_id": "Chf_22",
+            "w": 87.55826771653543,
+            "h": 25
+        }
+    ],
+    "Field": [
+        {
+            "y": 83.33070866141732,
+            "x": 83,
+            "structure_id": "Fi_1",
+            "w": 942.9748031496063,
+            "h": 46.83307086614174
+        },
+        {
+            "y": 216.6692913385827,
+            "x": 100,
+            "structure_id": "Fi_2",
+            "w": 1500,
+            "h": 33.330708661417304
+        },
+        {
+            "y": 250,
+            "x": 100,
+            "structure_id": "Fi_3",
+            "w": 550,
+            "h": 33.330708661417304
+        },
+        {
+            "y": 366.6692913385827,
+            "x": 100,
+            "structure_id": "Fi_4",
+            "w": 1500,
+            "h": 33.330708661417304
+        },
+        {
+            "y": 400.00000000000006,
+            "x": 100,
+            "structure_id": "Fi_5",
+            "w": 433.33070866141725,
+            "h": 33.330708661417304
+        },
+        {
+            "y": 1233.3220472440946,
+            "x": 1067,
+            "structure_id": "Fi_6",
+            "w": 266.33070866141725,
+            "h": 33.67795275590538
+        },
+        {
+            "y": 1283.3220472440946,
+            "x": 100,
+            "structure_id": "Fi_7",
+            "w": 750,
+            "h": 33.67795275590538
+        },
+        {
+            "y": 1283.3220472440946,
+            "x": 900,
+            "structure_id": "Fi_8",
+            "w": 366.66929133858275,
+            "h": 33.67795275590538
+        },
+        {
+            "y": 1456,
+            "x": 100.54488188976379,
+            "structure_id": "Fi_9",
+            "w": 1499.4551181102363,
+            "h": 594
+        }
+    ],
+    "TextRun": [
+        {
+            "parent_TextBlock": "Tb_1",
+            "text": "PATIENT/VETERAN'S SOCIAL SECURITY NO.",
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 417,
+            "h": 19,
+            "y": 105,
+            "x": 83,
+            "structure_id": "Tr_1"
+        },
+        {
+            "parent_TextBlock": "Tb_2",
+            "text": "SECTION III - CONGESTIVE HEART FAILURE (CHF) (Continued)",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 672,
+            "h": 22,
+            "y": 140,
+            "x": 514,
+            "structure_id": "Tr_2"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "If \"Yes,\" provide name of treatment facility:",
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 390,
+            "h": 22,
+            "y": 222,
+            "x": 100,
+            "structure_id": "Tr_3"
+        },
+        {
+            "parent_TextBlock": "Tb_4",
+            "text": "Date of most recent episode of CHF:",
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 328,
+            "h": 22,
+            "y": 256,
+            "x": 100,
+            "structure_id": "Tr_4"
+        },
+        {
+            "parent_TextBlock": "Tb_5",
+            "text": "3C. IF THE VETERAN'S CHF IS NOT CHRONIC, HAS THE VETERAN HAD MORE THAN ONE EPISODE OF ACUTE CHF IN THE PAST YEAR?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 1267,
+            "h": 20,
+            "y": 193,
+            "x": 100,
+            "structure_id": "Tr_5"
+        },
+        {
+            "parent_TextBlock": "Tb_6",
+            "text": "YES",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_1",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 39,
+            "h": 20,
+            "y": 193,
+            "x": 1433,
+            "structure_id": "Tr_6"
+        },
+        {
+            "parent_TextBlock": "Tb_7",
+            "text": "NO",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_2",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 29,
+            "h": 20,
+            "y": 193,
+            "x": 1550,
+            "structure_id": "Tr_7"
+        },
+        {
+            "parent_TextBlock": "Tb_8",
+            "text": "SECTION IV - CARDIAC FUNCTIONAL ASSESSMENT",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 558,
+            "h": 22,
+            "y": 307,
+            "x": 571,
+            "structure_id": "Tr_8"
+        },
+        {
+            "parent_TextBlock": "Tb_9",
+            "text": "4A. HAS A DIAGNOSTIC EXERCISE TEST BEEN CONDUCTED?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 577,
+            "h": 19,
+            "y": 343,
+            "x": 100,
+            "structure_id": "Tr_9"
+        },
+        {
+            "parent_TextBlock": "Tb_10",
+            "text": "YES",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 39,
+            "h": 19,
+            "y": 343,
+            "x": 750,
+            "structure_id": "Tr_10"
+        },
+        {
+            "parent_TextBlock": "Tb_11",
+            "text": "NO",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_4",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 29,
+            "h": 19,
+            "y": 343,
+            "x": 867,
+            "structure_id": "Tr_11"
+        },
+        {
+            "parent_TextBlock": "Tb_12",
+            "text": "Lowest level of activity at which veteran reports symptoms",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 500,
+            "h": 20,
+            "y": 549,
+            "x": 100,
+            "structure_id": "Tr_12"
+        },
+        {
+            "parent_TextBlock": "Tb_12",
+            "text": "(Check all symptoms that apply)",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 287,
+            "h": 22,
+            "y": 547,
+            "x": 606,
+            "structure_id": "Tr_13"
+        },
+        {
+            "parent_TextBlock": "Tb_13",
+            "text": "DYSPNEA",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_5",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 93,
+            "h": 20,
+            "y": 590,
+            "x": 150,
+            "structure_id": "Tr_14"
+        },
+        {
+            "parent_TextBlock": "Tb_14",
+            "text": "FATIGUE",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_6",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 84,
+            "h": 20,
+            "y": 590,
+            "x": 317,
+            "structure_id": "Tr_15"
+        },
+        {
+            "parent_TextBlock": "Tb_15",
+            "text": "ANGINA",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_7",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 75,
+            "h": 20,
+            "y": 590,
+            "x": 483,
+            "structure_id": "Tr_16"
+        },
+        {
+            "parent_TextBlock": "Tb_16",
+            "text": "DIZZINESS",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_8",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 102,
+            "h": 20,
+            "y": 590,
+            "x": 633,
+            "structure_id": "Tr_17"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "SYNCOPE",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_9",
+            "parent_ChoiceGroup": "Chgp_3",
+            "w": 95,
+            "h": 20,
+            "y": 590,
+            "x": 817,
+            "structure_id": "Tr_18"
+        },
+        {
+            "parent_TextBlock": "Tb_18",
+            "text": "If \"Yes,\" provide level of METS the veteran can perform as shown by diagnostic exercise testing:",
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 862,
+            "h": 22,
+            "y": 372,
+            "x": 100,
+            "structure_id": "Tr_19"
+        },
+        {
+            "parent_TextBlock": "Tb_19",
+            "text": "4B.  IF EXERCISE METs TESTING WAS NOT COMPLETED BECAUSE IT IS NOT REQUIRED AS PART OF THE VETERAN'S TREATMENT PLAN, COMPLETE THE",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1456,
+            "h": 19,
+            "y": 487,
+            "x": 100,
+            "structure_id": "Tr_20"
+        },
+        {
+            "parent_TextBlock": "Tb_19",
+            "text": "FOLLOWING METs TEST BASED ON THE VETERAN'S RESPONSES:",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 624,
+            "h": 20,
+            "y": 510,
+            "x": 139,
+            "structure_id": "Tr_21"
+        },
+        {
+            "parent_TextBlock": "Tb_20",
+            "text": "Date of most recent test:",
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 218,
+            "h": 22,
+            "y": 406,
+            "x": 100,
+            "structure_id": "Tr_22"
+        },
+        {
+            "parent_TextBlock": "Tb_21",
+            "text": "This METs Level has been found to be consistent with activities such as:",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 624,
+            "h": 19,
+            "y": 632,
+            "x": 100,
+            "structure_id": "Tr_23"
+        },
+        {
+            "parent_TextBlock": "Tb_22",
+            "text": "1-3 METs",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_10",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 85,
+            "h": 20,
+            "y": 669,
+            "x": 150,
+            "structure_id": "Tr_24"
+        },
+        {
+            "parent_TextBlock": "Tb_22",
+            "text": "(This METs level has been found to be consistent with activities such as",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_10",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 643,
+            "h": 22,
+            "y": 667,
+            "x": 246,
+            "structure_id": "Tr_25"
+        },
+        {
+            "parent_TextBlock": "Tb_22",
+            "text": "eating, dressing, taking a shower, slow walking (2 mph) for 1-2 blocks)",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_10",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 640,
+            "h": 22,
+            "y": 694,
+            "x": 150,
+            "structure_id": "Tr_26"
+        },
+        {
+            "parent_TextBlock": "Tb_23",
+            "text": ">3-5 METs",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_11",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 101,
+            "h": 20,
+            "y": 744,
+            "x": 150,
+            "structure_id": "Tr_27"
+        },
+        {
+            "parent_TextBlock": "Tb_23",
+            "text": "\u00c2\u00a0(This METs level has been found to be consistent with activities such as",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_11",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 648,
+            "h": 22,
+            "y": 742,
+            "x": 251,
+            "structure_id": "Tr_28"
+        },
+        {
+            "parent_TextBlock": "Tb_23",
+            "text": "light yard work (weeding), mowing lawn (power mower), brisk walking (4 mph)",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_11",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 716,
+            "h": 22,
+            "y": 769,
+            "x": 150,
+            "structure_id": "Tr_29"
+        },
+        {
+            "parent_TextBlock": "Tb_24",
+            "text": ">5-7 METs \u00c2\u00a0",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_12",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 106,
+            "h": 19,
+            "y": 828,
+            "x": 150,
+            "structure_id": "Tr_30"
+        },
+        {
+            "parent_TextBlock": "Tb_24",
+            "text": "(This METs level has been found to be consistent with activities such as",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_12",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 643,
+            "h": 22,
+            "y": 826,
+            "x": 256,
+            "structure_id": "Tr_31"
+        },
+        {
+            "parent_TextBlock": "Tb_24",
+            "text": "golfing (without cart), mowing lawn (push mower), heavy yard work (digging)",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_12",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 703,
+            "h": 22,
+            "y": 852,
+            "x": 150,
+            "structure_id": "Tr_32"
+        },
+        {
+            "parent_TextBlock": "Tb_25",
+            "text": ">7-10 METs \u00c2\u00a0",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_13",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 117,
+            "h": 19,
+            "y": 673,
+            "x": 967,
+            "structure_id": "Tr_33"
+        },
+        {
+            "parent_TextBlock": "Tb_25",
+            "text": "(This METs level has been found to be consistent with",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_13",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 485,
+            "h": 22,
+            "y": 671,
+            "x": 1084,
+            "structure_id": "Tr_34"
+        },
+        {
+            "parent_TextBlock": "Tb_25",
+            "text": "activities such as climbing stairs quickly, moderate bicycling, sawing",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_13",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 621,
+            "h": 22,
+            "y": 697,
+            "x": 967,
+            "structure_id": "Tr_35"
+        },
+        {
+            "parent_TextBlock": "Tb_25",
+            "text": "wood, jogging (6 mph)",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_13",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 208,
+            "h": 22,
+            "y": 724,
+            "x": 967,
+            "structure_id": "Tr_36"
+        },
+        {
+            "parent_TextBlock": "Tb_26",
+            "text": "Veteran denies experiencing above symptoms with any level of physical",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_14",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 623,
+            "h": 20,
+            "y": 770,
+            "x": 967,
+            "structure_id": "Tr_37"
+        },
+        {
+            "parent_TextBlock": "Tb_26",
+            "text": "activity",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_14",
+            "parent_ChoiceGroup": "Chgp_4",
+            "w": 59,
+            "h": 19,
+            "y": 794,
+            "x": 967,
+            "structure_id": "Tr_38"
+        },
+        {
+            "parent_TextBlock": "Tb_27",
+            "text": "SECTION V - DIAGNOSTIC TESTING",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 388,
+            "h": 22,
+            "y": 907,
+            "x": 659,
+            "structure_id": "Tr_39"
+        },
+        {
+            "parent_TextBlock": "Tb_28",
+            "text": "(Date):",
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 59,
+            "h": 20,
+            "y": 1247,
+            "x": 1067,
+            "structure_id": "Tr_40"
+        },
+        {
+            "parent_TextBlock": "Tb_29",
+            "text": "5C. LEFT VENTRICULAR EJECTION FRACTION (LVEF), IF KNOWN:",
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 613,
+            "h": 20,
+            "y": 1297,
+            "x": 100,
+            "structure_id": "Tr_41"
+        },
+        {
+            "parent_TextBlock": "Tb_30",
+            "text": "(If LVEF testing is not of record, but available medical information sufficiently reflects the severity of the veteran's cardiovascular condition, LVEF testing is not",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1442,
+            "h": 22,
+            "y": 1326,
+            "x": 100,
+            "structure_id": "Tr_42"
+        },
+        {
+            "parent_TextBlock": "Tb_30",
+            "text": "required)",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 84,
+            "h": 22,
+            "y": 1352,
+            "x": 100,
+            "structure_id": "Tr_43"
+        },
+        {
+            "parent_TextBlock": "Tb_31",
+            "text": "NOTE:",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 70,
+            "h": 22,
+            "y": 940,
+            "x": 100,
+            "structure_id": "Tr_44"
+        },
+        {
+            "parent_TextBlock": "Tb_31",
+            "text": "Determination of cardiac hypertrophy/dilatation is required; the suggested order of testing for cardiac hypertrophy/dilatation is EKG, then chest x-ray (PA and",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1420,
+            "h": 22,
+            "y": 940,
+            "x": 170,
+            "structure_id": "Tr_45"
+        },
+        {
+            "parent_TextBlock": "Tb_31",
+            "text": "lateral), then echocardiogram. Echocardiogram is only necessary if the other two tests are negative. A limited echocardiogram, if available, is appropriate to determine",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1487,
+            "h": 22,
+            "y": 965,
+            "x": 100,
+            "structure_id": "Tr_46"
+        },
+        {
+            "parent_TextBlock": "Tb_31",
+            "text": "if cardiac hypertrophy/dilatation is present by measuring only left ventricular dimension, wall thickness and ejection fraction.",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 1115,
+            "h": 22,
+            "y": 990,
+            "x": 100,
+            "structure_id": "Tr_47"
+        },
+        {
+            "parent_TextBlock": "Tb_32",
+            "text": "DATE OF TEST:",
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 150,
+            "h": 20,
+            "y": 1297,
+            "x": 900,
+            "structure_id": "Tr_48"
+        },
+        {
+            "parent_TextBlock": "Tb_33",
+            "text": "5A. IS THERE EVIDENCE OF CARDIAC HYPERTROPHY OR DILATATION?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 673,
+            "h": 19,
+            "y": 1024,
+            "x": 100,
+            "structure_id": "Tr_49"
+        },
+        {
+            "parent_TextBlock": "Tb_34",
+            "text": "YES",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_15",
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 39,
+            "h": 19,
+            "y": 1057,
+            "x": 150,
+            "structure_id": "Tr_50"
+        },
+        {
+            "parent_TextBlock": "Tb_35",
+            "text": "NO",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_16",
+            "parent_ChoiceGroup": "Chgp_5",
+            "w": 33,
+            "h": 19,
+            "y": 1057,
+            "x": 267,
+            "structure_id": "Tr_51"
+        },
+        {
+            "parent_TextBlock": "Tb_36",
+            "text": "5B. DIAGNOSTIC TEST AND DATE GIVEN",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 380,
+            "h": 19,
+            "y": 1108,
+            "x": 100,
+            "structure_id": "Tr_52"
+        },
+        {
+            "parent_TextBlock": "Tb_36",
+            "text": "(Provide most recent test only)",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 280,
+            "h": 22,
+            "y": 1106,
+            "x": 480,
+            "structure_id": "Tr_53"
+        },
+        {
+            "parent_TextBlock": "Tb_37",
+            "text": "EKG - Date of EKG:",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_17",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 173,
+            "h": 20,
+            "y": 1147,
+            "x": 150,
+            "structure_id": "Tr_54"
+        },
+        {
+            "parent_TextBlock": "Tb_38",
+            "text": "CHEST X-RAY - Date of chest x-ray:",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_18",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 317,
+            "h": 19,
+            "y": 1181,
+            "x": 150,
+            "structure_id": "Tr_55"
+        },
+        {
+            "parent_TextBlock": "Tb_39",
+            "text": "ECHOCARDIOGRAM - Date of echocardiogram:",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_19",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 420,
+            "h": 19,
+            "y": 1214,
+            "x": 150,
+            "structure_id": "Tr_56"
+        },
+        {
+            "parent_TextBlock": "Tb_40",
+            "text": "OTHER STUDY",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_20",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 139,
+            "h": 20,
+            "y": 1247,
+            "x": 150,
+            "structure_id": "Tr_57"
+        },
+        {
+            "parent_TextBlock": "Tb_40",
+            "text": "(Specify)",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_20",
+            "parent_ChoiceGroup": "Chgp_6",
+            "w": 74,
+            "h": 20,
+            "y": 1247,
+            "x": 289,
+            "structure_id": "Tr_58"
+        },
+        {
+            "parent_TextBlock": "Tb_41",
+            "text": "SECTION VI - FUNCTIONAL IMPACT AND REMARKS",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 554,
+            "h": 22,
+            "y": 1390,
+            "x": 573,
+            "structure_id": "Tr_59"
+        },
+        {
+            "parent_TextBlock": "Tb_42",
+            "text": "(If \"Yes,\" describe impact, providing one or more examples)",
+            "parent_Field": "Fi_9",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 535,
+            "h": 22,
+            "y": 1456,
+            "x": 307,
+            "structure_id": "Tr_60"
+        },
+        {
+            "parent_TextBlock": "Tb_43",
+            "text": "6. DOES THE VETERAN'S IHD IMPACT THE VETERAN'S ABILITY TO WORK?",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 698,
+            "h": 19,
+            "y": 1424,
+            "x": 100,
+            "structure_id": "Tr_61"
+        },
+        {
+            "parent_TextBlock": "Tb_44",
+            "text": "YES",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_21",
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 39,
+            "h": 19,
+            "y": 1457,
+            "x": 150,
+            "structure_id": "Tr_62"
+        },
+        {
+            "parent_TextBlock": "Tb_45",
+            "text": "NO",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_22",
+            "parent_ChoiceGroup": "Chgp_7",
+            "w": 40,
+            "h": 19,
+            "y": 1458,
+            "x": 267,
+            "structure_id": "Tr_63"
+        },
+        {
+            "parent_TextBlock": "Tb_46",
+            "text": "VA\u00c2\u00a0FORM 21-0960A-1, JUN 2017",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 299,
+            "h": 20,
+            "y": 2090,
+            "x": 83,
+            "structure_id": "Tr_64"
+        },
+        {
+            "parent_TextBlock": "Tb_47",
+            "text": "Page 2",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 71,
+            "h": 22,
+            "y": 2089,
+            "x": 1546,
+            "structure_id": "Tr_65"
+        }
+    ],
+    "ChoiceGroup": [
+        {
+            "y": 181.03125,
+            "x": 91,
+            "structure_id": "Chgp_1",
+            "w": 1499,
+            "h": 34
+        },
+        {
+            "y": 332.03125,
+            "x": 90,
+            "structure_id": "Chgp_2",
+            "w": 811,
+            "h": 35
+        },
+        {
+            "y": 541.03125,
+            "x": 93,
+            "structure_id": "Chgp_3",
+            "w": 829,
+            "h": 78
+        },
+        {
+            "y": 625.03125,
+            "x": 91,
+            "structure_id": "Chgp_4",
+            "w": 1506,
+            "h": 268
+        },
+        {
+            "y": 1016.03125,
+            "x": 93,
+            "structure_id": "Chgp_5",
+            "w": 687,
+            "h": 69
+        },
+        {
+            "y": 1099.03125,
+            "x": 93,
+            "structure_id": "Chgp_6",
+            "w": 1246,
+            "h": 175
+        },
+        {
+            "y": 1415.03125,
+            "x": 90,
+            "structure_id": "Chgp_7",
+            "w": 1515,
+            "h": 638
+        }
+    ]
+}

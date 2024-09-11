@@ -1,0 +1,903 @@
+{
+    "Widget": [
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 339.99999999999994,
+            "h": 38.8916666666666,
+            "y": 327.77777777777777,
+            "x": 480,
+            "structure_id": "Wi_1"
+        },
+        {
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 340,
+            "h": 38.8916666666666,
+            "y": 327.77777777777777,
+            "x": 140,
+            "structure_id": "Wi_2"
+        },
+        {
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 679.9999999999999,
+            "h": 72.22222222222221,
+            "y": 394.44722222222214,
+            "x": 140,
+            "structure_id": "Wi_3"
+        },
+        {
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 679.9999999999999,
+            "h": 144.44444444444443,
+            "y": 155.55555555555554,
+            "x": 140,
+            "structure_id": "Wi_4"
+        },
+        {
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 679.9999999999999,
+            "h": 38.8916666666666,
+            "y": 627.7777777777777,
+            "x": 140,
+            "structure_id": "Wi_5"
+        },
+        {
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 679.9999999999999,
+            "h": 38.8916666666666,
+            "y": 561.1083333333333,
+            "x": 140,
+            "structure_id": "Wi_6"
+        },
+        {
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 679.9999999999999,
+            "h": 38.8916666666666,
+            "y": 494.44722222222214,
+            "x": 140,
+            "structure_id": "Wi_7"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_1",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 27.77777777777778,
+            "h": 27.77777777777778,
+            "y": 69.44444444444444,
+            "x": 520,
+            "structure_id": "Wi_8"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_2",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 27.77777777777778,
+            "h": 27.77777777777778,
+            "y": 69.44444444444444,
+            "x": 680,
+            "structure_id": "Wi_9"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 22.22222222222222,
+            "h": 22.22222222222222,
+            "y": 638.8833333333334,
+            "x": 1345.5527777777777,
+            "structure_id": "Wi_10"
+        },
+        {
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 540.0000000000001,
+            "h": 33.33055555555562,
+            "y": 333.33055555555563,
+            "x": 839.9999999999999,
+            "structure_id": "Wi_11"
+        }
+    ],
+    "TextBlock": [
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 139.05947770065575,
+            "h": 23.140780362655505,
+            "y": 671,
+            "x": 140,
+            "structure_id": "Tb_1"
+        },
+        {
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 325.4117222222223,
+            "h": 22.67222222222233,
+            "y": 303.7055555555557,
+            "x": 491.11111111111114,
+            "structure_id": "Tb_2"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 259.2777777777778,
+            "h": 70.47222222222209,
+            "y": 162.76388888888894,
+            "x": 1339.1694444444445,
+            "structure_id": "Tb_3"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 141.87222222222226,
+            "h": 24.649047669471088,
+            "y": 266,
+            "x": 1129.0638888888889,
+            "structure_id": "Tb_4"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 123.7049667116944,
+            "h": 49.569786860873876,
+            "y": 169,
+            "x": 1140,
+            "structure_id": "Tb_5"
+        },
+        {
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 324.28744444444453,
+            "h": 22.67222222222233,
+            "y": 303.7055555555557,
+            "x": 151.11111111111111,
+            "structure_id": "Tb_6"
+        },
+        {
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 184.41111111111113,
+            "h": 22.67222222222233,
+            "y": 370.3750000000001,
+            "x": 151.11111111111111,
+            "structure_id": "Tb_7"
+        },
+        {
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 608.6666517102645,
+            "h": 46.00555555555559,
+            "y": 103.70555555555572,
+            "x": 151.11111111111111,
+            "structure_id": "Tb_8"
+        },
+        {
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 296.78055555555557,
+            "h": 22.67222222222233,
+            "y": 603.7055555555557,
+            "x": 151.11111111111111,
+            "structure_id": "Tb_9"
+        },
+        {
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 613.6277777777779,
+            "h": 22.67222222222233,
+            "y": 537.036111111111,
+            "x": 151.11111111111111,
+            "structure_id": "Tb_10"
+        },
+        {
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 293.1638888888889,
+            "h": 22.67222222222233,
+            "y": 470.37500000000006,
+            "x": 151.11111111111111,
+            "structure_id": "Tb_11"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 180.5027777777775,
+            "h": 16.473858019581144,
+            "y": 106,
+            "x": 1109.75,
+            "structure_id": "Tb_12"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_1",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 64.83333333333337,
+            "h": 25.982295482295456,
+            "y": 65.61111111111114,
+            "x": 563.5777777777778,
+            "structure_id": "Tb_13"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_2",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 146.81453413134898,
+            "h": 27.447313647082353,
+            "y": 65,
+            "x": 723.575,
+            "structure_id": "Tb_14"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 479.6836556972537,
+            "h": 62.00833333333355,
+            "y": 603.2583333333333,
+            "x": 847.327777777778,
+            "structure_id": "Tb_15"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 159.67499999999995,
+            "h": 66.66666666666669,
+            "y": 331.64166666666654,
+            "x": 1440.3277777777778,
+            "structure_id": "Tb_16"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 206.08888888888896,
+            "h": 177.00000000000006,
+            "y": 440.0444444444444,
+            "x": 1396.913888888889,
+            "structure_id": "Tb_17"
+        },
+        {
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 368.5138888888889,
+            "h": 60.95555555555546,
+            "y": 303.7055555555557,
+            "x": 824.5555555555554,
+            "structure_id": "Tb_18"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 10.8111111111111,
+            "h": 23.19722222222222,
+            "y": 303.2583333333333,
+            "x": 831.1111111111111,
+            "structure_id": "Tb_19"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 10.8111111111111,
+            "h": 23.19722222222222,
+            "y": 603.2583333333333,
+            "x": 831.1111111111111,
+            "structure_id": "Tb_20"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 207.72500000000002,
+            "h": 22.67222222222233,
+            "y": 673.1500000000001,
+            "x": 606.1388888888889,
+            "structure_id": "Tb_21"
+        },
+        {
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 444.008333333333,
+            "h": 22.67222222222233,
+            "y": 673.1500000000001,
+            "x": 1156,
+            "structure_id": "Tb_22"
+        }
+    ],
+    "Choice_Field": [
+        {
+            "y": 65.61111111111114,
+            "x": 520,
+            "structure_id": "Chf_1",
+            "w": 108.41111111111115,
+            "h": 31.611111111111086
+        },
+        {
+            "y": 65,
+            "x": 680,
+            "structure_id": "Chf_2",
+            "w": 190.38953413134902,
+            "h": 32.22222222222223
+        },
+        {
+            "y": 603.2583333333333,
+            "x": 847.327777777778,
+            "structure_id": "Chf_3",
+            "w": 520.4472222222219,
+            "h": 62.00833333333355
+        }
+    ],
+    "Field": [
+        {
+            "y": 303.7055555555557,
+            "x": 480,
+            "structure_id": "Fi_1",
+            "w": 340,
+            "h": 62.963888888888675
+        },
+        {
+            "y": 303.7055555555557,
+            "x": 140,
+            "structure_id": "Fi_2",
+            "w": 340,
+            "h": 62.963888888888675
+        },
+        {
+            "y": 370.3750000000001,
+            "x": 140,
+            "structure_id": "Fi_3",
+            "w": 679.9999999999999,
+            "h": 96.29444444444425
+        },
+        {
+            "y": 103.70555555555572,
+            "x": 140,
+            "structure_id": "Fi_4",
+            "w": 679.9999999999999,
+            "h": 196.29444444444428
+        },
+        {
+            "y": 603.7055555555557,
+            "x": 140,
+            "structure_id": "Fi_5",
+            "w": 679.9999999999999,
+            "h": 62.96388888888862
+        },
+        {
+            "y": 537.036111111111,
+            "x": 140,
+            "structure_id": "Fi_6",
+            "w": 679.9999999999999,
+            "h": 62.96388888888896
+        },
+        {
+            "y": 470.37500000000006,
+            "x": 140,
+            "structure_id": "Fi_7",
+            "w": 679.9999999999999,
+            "h": 62.963888888888675
+        },
+        {
+            "y": 303.7055555555557,
+            "x": 824.5555555555554,
+            "structure_id": "Fi_8",
+            "w": 555.4444444444446,
+            "h": 62.95555555555558
+        }
+    ],
+    "TextRun": [
+        {
+            "parent_TextBlock": "Tb_1",
+            "text": "1098-EForm",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 139.05947770065575,
+            "h": 23.140780362655466,
+            "y": 671,
+            "x": 140,
+            "structure_id": "Tr_1"
+        },
+        {
+            "parent_TextBlock": "Tb_2",
+            "text": "BORROWER?S social security number",
+            "parent_Field": "Fi_1",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 325.4117222222223,
+            "h": 22.67222222222233,
+            "y": 303.7055555555557,
+            "x": 491.11111111111114,
+            "structure_id": "Tr_2"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "Student",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 103.44444444444457,
+            "h": 33.138888888888744,
+            "y": 162.76388888888894,
+            "x": 1342.5583333333332,
+            "structure_id": "Tr_3"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "Loan",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 65.86111111111131,
+            "h": 33.138888888888744,
+            "y": 164.09722222222229,
+            "x": 1532.586111111111,
+            "structure_id": "Tr_4"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "Statement",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 136.83333333333326,
+            "h": 33.138888888888744,
+            "y": 199.4305555555556,
+            "x": 1461.1694444444443,
+            "structure_id": "Tr_5"
+        },
+        {
+            "parent_TextBlock": "Tb_3",
+            "text": "Interest",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 101.83333333333326,
+            "h": 33.138888888888744,
+            "y": 200.09722222222229,
+            "x": 1339.1694444444445,
+            "structure_id": "Tr_6"
+        },
+        {
+            "parent_TextBlock": "Tb_4",
+            "text": "1098EForm",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 141.87222222222226,
+            "h": 24.649047669471067,
+            "y": 266,
+            "x": 1129.0638888888889,
+            "structure_id": "Tr_7"
+        },
+        {
+            "parent_TextBlock": "Tb_5",
+            "text": "2016",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 123.70496671169442,
+            "h": 49.56978686087389,
+            "y": 169,
+            "x": 1140,
+            "structure_id": "Tr_8"
+        },
+        {
+            "parent_TextBlock": "Tb_6",
+            "text": "RECIPIENT?S federal identification no .",
+            "parent_Field": "Fi_2",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 324.28744444444453,
+            "h": 22.67222222222233,
+            "y": 303.7055555555557,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_9"
+        },
+        {
+            "parent_TextBlock": "Tb_7",
+            "text": "BORROWER?S name",
+            "parent_Field": "Fi_3",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 184.41111111111113,
+            "h": 22.67222222222233,
+            "y": 370.3750000000001,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_10"
+        },
+        {
+            "parent_TextBlock": "Tb_8",
+            "text": "RECIPIENT?S  / LENDER?S  name  ,  street  address  ,  city  or  town  ,  state  or",
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 608.6666517102645,
+            "h": 22.672222222222317,
+            "y": 103.70555555555572,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_11"
+        },
+        {
+            "parent_TextBlock": "Tb_8",
+            "text": "province  ,  country  ,  ZIP  or  foreign  postal  code  ,  and  telephone  number",
+            "parent_Field": "Fi_4",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 594.9805555555556,
+            "h": 22.672222222222317,
+            "y": 127.03888888888899,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_12"
+        },
+        {
+            "parent_TextBlock": "Tb_9",
+            "text": "Account number ( see instructions)",
+            "parent_Field": "Fi_5",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 296.78055555555557,
+            "h": 22.67222222222233,
+            "y": 603.7055555555557,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_13"
+        },
+        {
+            "parent_TextBlock": "Tb_10",
+            "text": "City or town , state or province , country , and ZIP or foreign postal code",
+            "parent_Field": "Fi_6",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 613.6277777777779,
+            "h": 22.67222222222233,
+            "y": 537.036111111111,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_14"
+        },
+        {
+            "parent_TextBlock": "Tb_11",
+            "text": "Street address ( including apt . no .)",
+            "parent_Field": "Fi_7",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 293.1638888888889,
+            "h": 22.67222222222233,
+            "y": 470.37500000000006,
+            "x": 151.11111111111111,
+            "structure_id": "Tr_15"
+        },
+        {
+            "parent_TextBlock": "Tb_12",
+            "text": "OMBNo.1545-1576",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 180.5027777777775,
+            "h": 16.473858019581147,
+            "y": 106,
+            "x": 1109.75,
+            "structure_id": "Tr_16"
+        },
+        {
+            "parent_TextBlock": "Tb_13",
+            "text": "VOID",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_1",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 64.83333333333334,
+            "h": 25.98229548229545,
+            "y": 65.61111111111114,
+            "x": 563.5777777777778,
+            "structure_id": "Tr_17"
+        },
+        {
+            "parent_TextBlock": "Tb_14",
+            "text": "CORRECTED",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_2",
+            "parent_ChoiceGroup": "Chgp_1",
+            "w": 146.814534131349,
+            "h": 27.44731364708236,
+            "y": 65,
+            "x": 723.575,
+            "structure_id": "Tr_18"
+        },
+        {
+            "parent_TextBlock": "Tb_15",
+            "text": "not",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 30.255555555555475,
+            "h": 23.197222222222194,
+            "y": 603.2583333333333,
+            "x": 1026.6833333333334,
+            "structure_id": "Tr_19"
+        },
+        {
+            "parent_TextBlock": "Tb_15",
+            "text": "Check  if  box  1  does  include  loan  origination  fees",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 479.6836556972537,
+            "h": 22.67222222222233,
+            "y": 603.7055555555557,
+            "x": 847.327777777778,
+            "structure_id": "Tr_20"
+        },
+        {
+            "parent_TextBlock": "Tb_15",
+            "text": "and  /  or  capitalized  interest  ,  and  the  loan  was  made",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 438.62777777777785,
+            "h": 22.67222222222233,
+            "y": 623.1500000000001,
+            "x": 847.775,
+            "structure_id": "Tr_21"
+        },
+        {
+            "parent_TextBlock": "Tb_15",
+            "text": "before  September  1  ,  2004        . . . . . . .",
+            "parent_Field": null,
+            "parent_Choice_Field": "Chf_3",
+            "parent_ChoiceGroup": "Chgp_2",
+            "w": 457.5861111111109,
+            "h": 22.67222222222233,
+            "y": 642.5944444444445,
+            "x": 847.775,
+            "structure_id": "Tr_22"
+        },
+        {
+            "parent_TextBlock": "Tb_16",
+            "text": "Copy  C",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 97.25,
+            "h": 33.138888888888744,
+            "y": 331.64166666666654,
+            "x": 1502.75,
+            "structure_id": "Tr_23"
+        },
+        {
+            "parent_TextBlock": "Tb_16",
+            "text": "For  Recipient",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 159.67499999999995,
+            "h": 29.824999999999932,
+            "y": 368.4833333333333,
+            "x": 1440.3277777777778,
+            "structure_id": "Tr_24"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "For Privacy Act and",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 185.15520961890866,
+            "h": 25.91111111111104,
+            "y": 440.0444444444444,
+            "x": 1413,
+            "structure_id": "Tr_25"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Paperwork",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 107.37777777777774,
+            "h": 25.91111111111104,
+            "y": 464.0444444444444,
+            "x": 1400.625,
+            "structure_id": "Tr_26"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Reduction Act",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 104.7763019762981,
+            "h": 25.91111111111104,
+            "y": 465.0444444444444,
+            "x": 1497,
+            "structure_id": "Tr_27"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Notice , see the",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 125.87516404199482,
+            "h": 25.91111111111104,
+            "y": 492.0444444444445,
+            "x": 1419,
+            "structure_id": "Tr_28"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "2016",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 49.42222222222222,
+            "h": 26.511111111111063,
+            "y": 497.5333333333334,
+            "x": 1548.5805555555557,
+            "structure_id": "Tr_29"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "General",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 137.99619712425078,
+            "h": 26.511111111111063,
+            "y": 517.5333333333335,
+            "x": 1464,
+            "structure_id": "Tr_30"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Instructions for",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 162.1111111111111,
+            "h": 26.511111111111063,
+            "y": 539.5333333333334,
+            "x": 1440.8916666666669,
+            "structure_id": "Tr_31"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Certain Information",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 206.08888888888896,
+            "h": 26.511111111111063,
+            "y": 565.5333333333334,
+            "x": 1396.913888888889,
+            "structure_id": "Tr_32"
+        },
+        {
+            "parent_TextBlock": "Tb_17",
+            "text": "Returns .",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 89.73333333333335,
+            "h": 26.511111111111063,
+            "y": 590.5333333333334,
+            "x": 1507.2694444444446,
+            "structure_id": "Tr_33"
+        },
+        {
+            "parent_TextBlock": "Tb_18",
+            "text": "Student loan interest received by lender",
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 345.74166666666656,
+            "h": 22.67222222222233,
+            "y": 303.7055555555557,
+            "x": 847.3277777777778,
+            "structure_id": "Tr_34"
+        },
+        {
+            "parent_TextBlock": "Tb_18",
+            "text": "$",
+            "parent_Field": "Fi_8",
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 15.444444444444457,
+            "h": 32.3888888888888,
+            "y": 332.27222222222235,
+            "x": 824.5555555555554,
+            "structure_id": "Tr_35"
+        },
+        {
+            "parent_TextBlock": "Tb_19",
+            "text": "1",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 10.8111111111111,
+            "h": 23.19722222222222,
+            "y": 303.2583333333333,
+            "x": 831.1111111111111,
+            "structure_id": "Tr_36"
+        },
+        {
+            "parent_TextBlock": "Tb_20",
+            "text": "2",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 10.8111111111111,
+            "h": 23.19722222222222,
+            "y": 603.2583333333333,
+            "x": 831.1111111111111,
+            "structure_id": "Tr_37"
+        },
+        {
+            "parent_TextBlock": "Tb_21",
+            "text": "www.irs.gov / form1098e",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 207.72500000000002,
+            "h": 22.67222222222233,
+            "y": 673.1500000000001,
+            "x": 606.1388888888889,
+            "structure_id": "Tr_38"
+        },
+        {
+            "parent_TextBlock": "Tb_22",
+            "text": "Department of the Treasury - Internal Revenue Service",
+            "parent_Field": null,
+            "parent_Choice_Field": null,
+            "parent_ChoiceGroup": null,
+            "w": 444.008333333333,
+            "h": 22.67222222222233,
+            "y": 673.1500000000001,
+            "x": 1156,
+            "structure_id": "Tr_39"
+        }
+    ],
+    "ChoiceGroup": [
+        {
+            "y": 56.03125,
+            "x": 505.515625,
+            "structure_id": "Chgp_1",
+            "w": 366,
+            "h": 44
+        },
+        {
+            "y": 598.03125,
+            "x": 843.515625,
+            "structure_id": "Chgp_2",
+            "w": 526,
+            "h": 66
+        }
+    ]
+}
